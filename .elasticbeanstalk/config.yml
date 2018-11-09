@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: react-sample
+    environment: testing-sample-upload
 environment-defaults:
   react-sample:
     branch: null
